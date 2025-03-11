@@ -3567,25 +3567,26 @@ const elementsDict =
   },
   "universal": {
     "elements": [
-      "stand up",
-      "stand up",
+      "row",
       "sun"
     ],
     "kanji": "普",
     "subElements": [
-      "stand up",
-      "stand up",
+      "row",
       "sun",
-      "top hat",
       "horns",
+      "stand up",
+      "ground",
+      "upside down in a row",
+      "day",
+      "animal horns",
+      "top hat",
       "floor",
       "drop",
       "one",
-      "animal horns",
       "drops",
       "stand",
-      "vase",
-      "day"
+      "vase"
     ],
     "synonyms": [],
     "wkNames": [
@@ -5436,9 +5437,24 @@ const elementsDict =
     "comment": "line up is the direct equivalent in WK, but only a kanji, not a radical. Also, RTK makes a distinction between row and upside down in a row depending on where it's placed. Upside down in a row is when below, and 3 top stokes are removed. Though RTK isn't very clear here."
   },
   "row": {
-    "elements": [],
+    "elements": [
+      "horns",
+      "stand up",
+      "ground"
+    ],
     "kanji": "並",
     "subElements": [
+      "horns",
+      "stand up",
+      "ground",
+      "animal horns",
+      "top hat",
+      "floor",
+      "drop",
+      "one",
+      "drops",
+      "stand",
+      "vase",
       "upside down in a row"
     ],
     "synonyms": [
@@ -5464,6 +5480,17 @@ const elementsDict =
       "divining rod",
       "cliff",
       "seven",
+      "horns",
+      "stand up",
+      "ground",
+      "animal horns",
+      "top hat",
+      "floor",
+      "drop",
+      "one",
+      "drops",
+      "stand",
+      "vase",
       "upside down in a row",
       "wand",
       "magic wand",
@@ -5490,6 +5517,15 @@ const elementsDict =
       "king",
       "stick",
       "animal horns",
+      "stand up",
+      "ground",
+      "top hat",
+      "floor",
+      "drop",
+      "one",
+      "drops",
+      "stand",
+      "vase",
       "upside down in a row"
     ],
     "synonyms": [],
@@ -5513,7 +5549,16 @@ const elementsDict =
       "king",
       "stick",
       "animal horns",
-      "wood"
+      "wood",
+      "stand up",
+      "ground",
+      "top hat",
+      "floor",
+      "drop",
+      "one",
+      "drops",
+      "stand",
+      "vase"
     ],
     "synonyms": [],
     "wkNames": [

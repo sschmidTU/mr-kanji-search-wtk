@@ -180,7 +180,7 @@ bay; 浦; bay; l(water, dog tag)
 stand up=stand=vase; 立; stand; t(top hat, horns, floor) // RTK says "Used as a primitive, it can also mean vase". But stand up seems more central/well known.
 badge; 章; chapter; t(stand up, early)
 idea; 意; idea; t(stand up, sun, heart)
-universal; 普; normal; t(l(stand up, stand up), sun)
+universal; 普; normal; t(row, sun)
 towel; 巾; towel
 market; 市; city; t(top hat, towel) // can look like c(towel, one) depending on font, especially with chinese-like font
 marketB=market; 師 right part; marketB; t(ceiling, towel)
@@ -270,7 +270,7 @@ melon; 瓜; melon; c(claw, elbow)&dragging&hood
 orphan; 孤; orphan; l(child, melon)
 complete; 了; finish; ; barbWK
 upside down in a row=row; 並; line up&spikes&horns&ground // line up is the direct equivalent in WK, but only a kanji, not a radical. Also, RTK makes a distinction between row and upside down in a row depending on where it's placed. Upside down in a row is when below, and 3 top stokes are removed. Though RTK isn't very clear here.
-row=upside down in a row; 並; line up&spikes&horns&ground // line up is the direct equivalent in WK, but only a kanji, not a radical. Also, RTK makes a distinction between row and upside down in a row depending on where it's placed. Row is the top placement, and the complete form, no strokes removed.
+row=upside down in a row; 並; line up&spikes&horns&ground; t(horns, stand up, ground) // line up is the direct equivalent in WK, but only a kanji, not a radical. Also, RTK makes a distinction between row and upside down in a row depending on where it's placed. Row is the top placement, and the complete form, no strokes removed.
 void; 虚; void; tl(tiger, row)
 virtuous; 善; morally good; t(sheep, row, mouth)
 profession; 業; business; t(upside down in a row, sheep, tree) // structureVague: yes
