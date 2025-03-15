@@ -515,6 +515,10 @@ class WTKSearch {
                   elementsInfoHtml += subElementWithoutNumber
                 } else {
                   elementsInfoHtml += elementDictInfo.wkNames[0];
+                  // if more than one name: add other names with /
+                  for (let n = 1; n < elementDictInfo.wkNames.length; n++) {
+                    elementsInfoHtml += `/${elementDictInfo.wkNames[n]}`;
+                  }
                 }
               }
             }
