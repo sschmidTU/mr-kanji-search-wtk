@@ -70,6 +70,7 @@ kingB=king; 瑛 left part; king // my version of RTK1 calls this jewel, e.g. in 
 jewel=ball=earring; 玉; jewel; o(king, drop) 
 responsibility; 任; duty; l(person, porter)
 lord=candlestick; 主; master; t(drop, king)
+lordB=lord; 表 upper part; life; t(stick, king)
 grow up; 青 top part; life; t(drop, king)
 bushes; 峰 bottom right part; bushes; t(grow up, stick)
 bushesB=bushes; 邦 left part; bushes&life; t(grow up, dropB)
@@ -155,7 +156,7 @@ instantaneously; 忽; instantaneously; t(not, heart)
 notB=not=knot; 而 bottom part; wingB&notB
 sow=pig; 豕; pig
 warthog; 隊 right part; warthog; t(horns, sow)
-regiment; 隊; squad; l(pinnacle, wart hog)
+regiment; 隊; squad; l(pinnacle, warthog)
 thing; 物; thing; l(cow, not)
 overpowering; 豪; luxurious; t(top hat, mouth, crown, sow)
 easy=piggy bank; 易; easy; t(sun, not) // element is called piggy bank in RTK, but honestly that's kinda silly if we can just use the kanji name "easy".
@@ -166,7 +167,7 @@ common=commonplace=comfortable; 庸; common; tl(cave, t(rake, utilize))
 arrowhead=arrow; 代 right part; ceremony // RTK mainly calls this arrow, but that's confusing with the kanji/word 矢, which in RTK is "dart", not "arrow", to "avoid" confusion.
 fiesta; 戈, 伐 right part; drunkard; c(arrowhead, drop); slideWK
 thanksgiving=harvest festival; 𢦏, 栽 without 木; thanksgiving; c(fiesta, soil)
-request; 求; request; c(arrow, rice)&water // structureVague: yes
+request; 求; request; c(arrowhead, rice)&water // structureVague: yes
 length=tucked under the arm; 丈; height
 parade; 茂 bottom part; parade; l(cliff, fiesta)
 turn into=paradeB; 成; become; o(parade, clothes hanger)
@@ -175,7 +176,7 @@ float; 桟 right part; bar; c(fiesta, two) // apparently comes from 戔, which i
 warrior; 武; military; tr(arrowhead, stop)&one
 style; 式; ritual; tr(arrowhead, craft)
 fell; 伐; fell; l(personB, fiesta)&substitute // could also be seen with 代 substitute as c(substitute, drop)
-dog tag=dogtag=offspring; 甫; wedding; t(arrowhead, screwdriver)
+dog tag=dogtag=offspring; 甫; wedding; t(arrowhead, utilize)
 bay; 浦; bay; l(water, dog tag)
 stand up=stand=vase; 立; stand; t(top hat, horns, floor) // RTK says "Used as a primitive, it can also mean vase". But stand up seems more central/well known.
 badge; 章; chapter; t(stand up, early)
@@ -258,7 +259,7 @@ straightened hook; 直 bottom part, 断 left part; lion; fishhook // RTK: a more
 straightaway; 直; fix; t(ten, eye, straightened hook)
 hook; 亅, 小 bottom part, 疋 end of top stroke; hook
 contend; 争; conflict; t(bound up, rake, hook)
-family name; 氏; clan; tl(dragging, arrow, fishhook) // structureVague: yes
+family name; 氏; clan; tl(dragging, arrowhead, fishhook) // structureVague: yes
 people; 民; people&peoples; tl(flag, family name) // structureVague: yes
 by means of; 以; from; l(straightened hook, drop, person)
 prefecture; 県; prefecture; t(lb(straightened hook, eye), little)
@@ -310,7 +311,7 @@ specialty; 専; specialty; t(ten, rice field, glue)
 acupuncturist; 縛 right part; acupuncturist; c(specialty, drop)
 adhere; 付; attach; l(person, glue)
 municipality=borough; 府; government; tl(cave, adhere) // RTK1 calls this municipality, RTK3 borough
-substitute; 代; substitute; l(person, arrow)
+substitute; 代; substitute; l(person, arrowhead)
 generation=generations; 世; world
 dry=clothesline; 干; dry; t(ceiling, ten) // RTK gives clothesline as the primitive element name, but that's a bit long, and in the book it immediately uses "dry" for the next kanji.
 potato; 芋 bottom part; potato; t(dry, hook) // slight variation of dry with hook at the end
@@ -364,7 +365,7 @@ pi; 光 bottom part; pi; t(ceiling, human legs)
 hairpin; 畏長 bottom part; ground&kick // note that scarf (RTK) has an extra, very small vertical stroke on top. kick: 𧘇
 garment=clothes=scarf; 衣, 哀 top plus bottom part; clothes; t(top hat, hairpin) // scarf/garment is a bit ambiguous in RTK, can also be close to hairpin/𧘇 kick
 surface; 表; express; t(lordB, hairpin)
-trampoline=round; 睘; trampoline&zombie; t(eyeB, ceiling, mouth, scarf) // WK 袁 = zombie
+trampoline=round; 睘; trampoline&zombie; t(eyeB, ceiling, mouth, garment) // WK 袁 = zombie
 sign of the dragon; 辰; landslide; tl(cliff, t(ceiling, hairpin))
 agriculture; 農; farming; t(bend, sign of the dragon)
 apprehensive; 畏; apprehensive; t(rice field, hairpin)
@@ -445,7 +446,7 @@ death; 死; death; t(ceiling, l(evening, spoon))&bones
 name; 名; name; t(evening, mouth)
 ballerina=sunglasses; 舛; dance; l(evening, cow) // RTK v4 calls this sunglasses, but in rtk-search data this is ambiguous, seems like "sunglasses with one lense missing" is a vertically separated element with a variant of evening on top, something else in the middle, and cow on the bottom. Almost all the occurences of 舛 in the data have "ballerina" though.
 sunglasses with one lens missing; 韋 bottom part; sunglasses with one lens missing
-show=altar; 示; jackhammer; t(two, small) // altar is same naming in RTK as 礼 left part, confusing. supposedly, this is just morphed in these cases.
+show=altar; 示; jackhammer; t(two, little) // altar is same naming in RTK as 礼 left part, confusing. supposedly, this is just morphed in these cases.
 beginning; 元; origin; t(two, human legs); piWK
 nara; 奈; nara; t(large, show)
 military officer=lieutenant; 尉; military officer; l(tl(flag, show), glue) // RTK1 calls this military officer, RTK3 lieutenant
@@ -462,7 +463,7 @@ guillotine; 決 right part; decide; t(c(key, stick), large) // maybe the subdivi
 marquis; 侯; marquis; l(personB, t(key, dart))
 locket; 韋; korea; t(key, mouth, sunglasses with one lens missing)
 retainer=slave=servant; 臣; servant
-loincloth=wise; 臤; wise; 臤
+loincloth=wise; 臤; wise; l(retainer, crotch)
 gigantic=giant; 巨; giant
 strict; 堅; solid; t(loincloth, soil)
 fingerprint; 犯 right part; snake
@@ -482,7 +483,7 @@ hay; 芻; hay; t(tr(bound up, mountain, dropB), tr(bound up, mountain, dropB))
 dangerous; 危; dangerous; t(bound up, tl(cliff, fingerprint))
 separate; 別; separate; l(t(mouth, bound up), saber)
 angle; 角; angle; t(bound up, t(rice field, fenceposts)) // structureVague: yes
-again; 再; again; t(ceiling, sprout, fence postsB); leafWK // structureVague: yes
+again; 再; again; t(ceiling, sprout, fencepostsB); leafWK // structureVague: yes
 funnel; 冓; lifeguard; t(celery, again)
 director; 司; director; tr(clothes hanger, creeper)
 big dipper=measuring cup; 斗; ladle; c(c(stick, one), drop2)
@@ -811,7 +812,7 @@ pair; 双; pair; l(crotch, crotch)
 guy; 奴; dude; l(woman, crotch)
 to measure; 蒦; to measure; t(flowers, turkey, crotch) // rare on its own
 spool; 圣; tombstone; t(crotch, soil)
-uncle; 叔; uncle; l(t(above, small), crotch)
+uncle; 叔; uncle; l(t(above, little), crotch)
 anti=anti-; 反; anti; tl(cliff, crotch)
 elbow; 厶; private
 pedestal; 台; machine; t(elbow, mouth)

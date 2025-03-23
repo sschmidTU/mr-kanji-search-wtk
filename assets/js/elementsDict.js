@@ -1334,6 +1334,24 @@ const elementsDict =
       "master"
     ]
   },
+  "lordB": {
+    "elements": [
+      "stick",
+      "king"
+    ],
+    "kanji": "表 upper part",
+    "subElements": [
+      "stick",
+      "king",
+      "lord"
+    ],
+    "synonyms": [
+      "lord"
+    ],
+    "wkNames": [
+      "life"
+    ]
+  },
   "grow up": {
     "elements": [
       "drop",
@@ -3037,12 +3055,16 @@ const elementsDict =
   "regiment": {
     "elements": [
       "pinnacle",
-      "wart hog"
+      "warthog"
     ],
     "kanji": "隊",
     "subElements": [
       "pinnacle",
-      "wart hog"
+      "warthog",
+      "horns",
+      "sow",
+      "animal horns",
+      "pig"
     ],
     "synonyms": [],
     "wkNames": [
@@ -3267,14 +3289,15 @@ const elementsDict =
   },
   "request": {
     "elements": [
-      "arrow",
+      "arrowhead",
       "rice"
     ],
     "kanji": "求",
     "subElements": [
-      "arrow",
+      "arrowhead",
       "rice",
       "water",
+      "arrow",
       "tree",
       "horns",
       "water droplets",
@@ -3454,13 +3477,20 @@ const elementsDict =
   "dog tag": {
     "elements": [
       "arrowhead",
-      "screwdriver"
+      "utilize"
     ],
     "kanji": "甫",
     "subElements": [
       "arrowhead",
-      "screwdriver",
+      "utilize",
       "arrow",
+      "moon",
+      "stick",
+      "month",
+      "flesh",
+      "part of the body",
+      "utilise",
+      "screwdriver",
       "dogtag",
       "offspring"
     ],
@@ -3484,8 +3514,15 @@ const elementsDict =
       "water droplets",
       "water pistol",
       "arrowhead",
-      "screwdriver",
+      "utilize",
       "arrow",
+      "moon",
+      "stick",
+      "month",
+      "flesh",
+      "part of the body",
+      "utilise",
+      "screwdriver",
       "dogtag",
       "offspring"
     ],
@@ -5153,16 +5190,17 @@ const elementsDict =
   "family name": {
     "elements": [
       "dragging",
-      "arrow",
+      "arrowhead",
       "fishhook"
     ],
     "kanji": "氏",
     "subElements": [
       "dragging",
-      "arrow",
+      "arrowhead",
       "fishhook",
       "drag",
       "cliff",
+      "arrow",
       "hook",
       "stick",
       "fishguts",
@@ -5194,10 +5232,11 @@ const elementsDict =
       "drop",
       "drops",
       "dragging",
-      "arrow",
+      "arrowhead",
       "fishhook",
       "drag",
       "cliff",
+      "arrow",
       "hook",
       "stick",
       "fishguts",
@@ -6444,11 +6483,12 @@ const elementsDict =
   "substitute": {
     "elements": [
       "person",
-      "arrow"
+      "arrowhead"
     ],
     "kanji": "代",
     "subElements": [
       "person",
+      "arrowhead",
       "arrow"
     ],
     "synonyms": [],
@@ -7512,7 +7552,13 @@ const elementsDict =
     "kanji": "表",
     "subElements": [
       "lordB",
-      "hairpin"
+      "hairpin",
+      "stick",
+      "king",
+      "lord",
+      "drop",
+      "drops",
+      "candlestick"
     ],
     "synonyms": [],
     "wkNames": [
@@ -7524,16 +7570,22 @@ const elementsDict =
       "eyeB",
       "ceiling",
       "mouth",
-      "scarf"
+      "garment"
     ],
     "kanji": "睘",
     "subElements": [
       "eyeB",
       "ceiling",
       "mouth",
-      "scarf",
+      "garment",
       "eye",
       "one",
+      "top hat",
+      "hairpin",
+      "drop",
+      "drops",
+      "clothes",
+      "scarf",
       "round"
     ],
     "synonyms": [
@@ -9183,11 +9235,15 @@ const elementsDict =
   "show": {
     "elements": [
       "two",
-      "small"
+      "little"
     ],
     "kanji": "示",
     "subElements": [
       "two",
+      "little",
+      "animal legs",
+      "stick",
+      "hook",
       "small",
       "altar"
     ],
@@ -9226,6 +9282,10 @@ const elementsDict =
       "show",
       "St. Bernard",
       "two",
+      "little",
+      "animal legs",
+      "stick",
+      "hook",
       "small",
       "altar"
     ],
@@ -9249,10 +9309,13 @@ const elementsDict =
       "drop",
       "drops",
       "two",
+      "little",
+      "animal legs",
+      "stick",
+      "hook",
       "small",
       "altar",
       "ten",
-      "hook",
       "needle",
       "measurement",
       "lieutenant"
@@ -9276,6 +9339,10 @@ const elementsDict =
       "show",
       "tree",
       "two",
+      "little",
+      "animal legs",
+      "stick",
+      "hook",
       "small",
       "altar",
       "wood",
@@ -9299,6 +9366,10 @@ const elementsDict =
       "show",
       "house",
       "two",
+      "little",
+      "animal legs",
+      "stick",
+      "hook",
       "small",
       "altar",
       "sow",
@@ -9326,6 +9397,10 @@ const elementsDict =
       "evening",
       "drops",
       "two",
+      "little",
+      "animal legs",
+      "stick",
+      "hook",
       "small",
       "altar",
       "wigwam"
@@ -9353,6 +9428,10 @@ const elementsDict =
       "evening",
       "drops",
       "two",
+      "little",
+      "animal legs",
+      "stick",
+      "hook",
       "small",
       "altar",
       "wigwam",
@@ -9531,11 +9610,15 @@ const elementsDict =
   },
   "loincloth": {
     "elements": [
-      "臤"
+      "retainer",
+      "crotch"
     ],
     "kanji": "臤",
     "subElements": [
-      "臤",
+      "retainer",
+      "crotch",
+      "slave",
+      "servant",
       "wise"
     ],
     "synonyms": [
@@ -9567,7 +9650,10 @@ const elementsDict =
     "subElements": [
       "loincloth",
       "soil",
-      "臤",
+      "retainer",
+      "crotch",
+      "slave",
+      "servant",
       "wise",
       "dirt",
       "ground"
@@ -9951,21 +10037,25 @@ const elementsDict =
     "elements": [
       "ceiling",
       "sprout",
-      "fence postsB"
+      "fencepostsB"
     ],
     "elementsWK": "leafWK",
     "kanji": "再",
     "subElements": [
       "ceiling",
       "sprout",
-      "fence postsB",
+      "fencepostsB",
       "one",
       "drop",
       "rice field",
       "drops",
       "brains",
       "shoot",
-      "wherefore"
+      "wherefore",
+      "stick",
+      "hook",
+      "fenceposts",
+      "dropB"
     ],
     "synonyms": [],
     "wkNames": [
@@ -9985,7 +10075,7 @@ const elementsDict =
       "salad",
       "ceiling",
       "sprout",
-      "fence postsB",
+      "fencepostsB",
       "one",
       "drop",
       "rice field",
@@ -9993,6 +10083,10 @@ const elementsDict =
       "brains",
       "shoot",
       "wherefore",
+      "stick",
+      "hook",
+      "fenceposts",
+      "dropB",
       "flowers",
       "floor",
       "flower"
@@ -16510,20 +16604,24 @@ const elementsDict =
   "uncle": {
     "elements": [
       "above",
-      "small",
+      "little",
       "crotch"
     ],
     "kanji": "叔",
     "subElements": [
       "above",
-      "small",
+      "little",
       "crotch",
       "divining rod",
       "floor",
       "wand",
       "magic wand",
       "augury",
-      "one"
+      "one",
+      "animal legs",
+      "stick",
+      "hook",
+      "small"
     ],
     "synonyms": [],
     "wkNames": [

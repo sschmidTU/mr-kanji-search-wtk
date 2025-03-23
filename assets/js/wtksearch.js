@@ -520,9 +520,13 @@ class WTKSearch {
                     elementsInfoHtml += `/${elementDictInfo.wkNames[n]}`;
                   }
                 }
+              } else {
+                console.log("subelement not found: " + subElementWithoutNumber + " for element: " + elStringOrig);
               }
             }
             // elementsInfoHtml += ')';
+          } else if (!elements) {
+            console.log("(single) element not found: " + elStringOrig);
           }
         }
         elementsInfoHtml += '</span>';
@@ -557,6 +561,7 @@ class WTKSearch {
     }
     const elObject = elementsDict[elementName];
     if (!elObject) {
+      console.log('element not found: ' + elementName);
       return '';
     }
     const description = elObject.kanji;
