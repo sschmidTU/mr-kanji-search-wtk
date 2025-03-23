@@ -271,7 +271,7 @@ melon; 瓜; melon; c(claw, elbow)&dragging&hood
 orphan; 孤; orphan; l(child, melon)
 complete; 了; finish; ; barbWK
 upside down in a row=row; 並; line up&spikes&horns&ground // line up is the direct equivalent in WK, but only a kanji, not a radical. Also, RTK makes a distinction between row and upside down in a row depending on where it's placed. Upside down in a row is when below, and 3 top stokes are removed. Though RTK isn't very clear here.
-row=upside down in a row; 並; line up&spikes&horns&ground; t(horns, stand up, ground) // line up is the direct equivalent in WK, but only a kanji, not a radical. Also, RTK makes a distinction between row and upside down in a row depending on where it's placed. Row is the top placement, and the complete form, no strokes removed.
+row=upside down in a row; 並; line up&spikes&horns&ground; t(horns, stand up, floor) // line up is the direct equivalent in WK, but only a kanji, not a radical. Also, RTK makes a distinction between row and upside down in a row depending on where it's placed. Row is the top placement, and the complete form, no strokes removed.
 void; 虚; void; tl(tiger, row)
 virtuous; 善; morally good; t(sheep, row, mouth)
 profession; 業; business; t(upside down in a row, sheep, tree) // structureVague: yes
