@@ -2760,16 +2760,34 @@ const elementsDict =
   "trust": {
     "elements": [
       "bundle",
-      "page"
+      "head"
     ],
     "kanji": "頼",
     "subElements": [
       "bundle",
-      "page",
+      "head",
       "tree",
       "mouth",
       "wood",
-      "Chaplin"
+      "Chaplin",
+      "ceiling",
+      "drop",
+      "shellfish",
+      "oneself",
+      "page",
+      "one",
+      "drops",
+      "eye",
+      "animal legs",
+      "shell",
+      "clam",
+      "oyster",
+      "nose",
+      "rice field",
+      "two hands",
+      "brains",
+      "flowers",
+      "flower"
     ],
     "synonyms": [],
     "wkNames": [

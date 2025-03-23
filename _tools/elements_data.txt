@@ -142,7 +142,7 @@ sign of the bird=whiskey bottle; 酉; alcohol; c(west, one)
 chieftain=molotov cocktail; 猶 right part, 酋; molotov cocktail&alcohol; t(horns, sign of the bird)
 revered; 尊; revered; t(chieftain, glue)
 bundle=Chaplin; 束; bundle; tree, mouth
-trust; 頼; trust; l(bundle, page)
+trust; 頼; trust; l(bundle, head)
 nothing=nothingness; 無; nothing; t(reclining, tome, oven-fire) // structureVague: yes
 tome; 冊; bookshelf; c(scrapbook, one) // compared to scrapbook, this has a longer middle horizontal stroke (sticks out left and right)
 scrapbook=tome; 輪 bottom right part; bookshelf; t(dish, l(stick, stick, stick, hook)) // compared to scrapbook, this has a shorter middle horizontal stroke (doesn't stick out left and right)
