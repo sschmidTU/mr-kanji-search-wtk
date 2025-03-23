@@ -54,6 +54,13 @@ class WTKSearch {
     allowRepeatedQueries = true,
     filterOnDocInsteadOfQuery = undefined,
   } = {}) {
+    // show all kanji: (do this in the browser console)
+    // wtk.maxResultSize = 4000
+    // let allkanji = "";
+    // for (const doc of docs) {
+    //     allkanji += doc.kanji;
+    // }
+    // wtk.search(allkanji, {forceSearch: true})
     if (!query?.trim) {
       return { length: 0 };
     }
