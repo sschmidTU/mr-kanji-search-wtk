@@ -1356,6 +1356,7 @@ class WTKSearch {
       "middle ground": "purse",
       "tophat": "shelf",
       "lineup": "row",
+      "support": "branch", // now also called branch in WK, renamed from support I think
       "normal": "universal", //1925
       "yen": "yen,circle", //1952
       "lifeguard": "funnel",

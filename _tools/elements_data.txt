@@ -561,7 +561,7 @@ possess; 有; have; o(by one's side, moon)
 linen; 布; cloth; tl(by one's side, towel)
 friend; 友; friend; tl(by one's side, crotch)
 missile; 殳; weapon; t(wind, crotch)
-branch; 支; support; t(ten, crotch)
+branch; 支; support&branch; t(ten, crotch) // now also called branch in WK, renamed from support I think
 early=sunflower; 早; early; t(sun, ten)
 mist; 𠦝, 龺, 朝 left part; morning; t(ten, sun, ten)
 morning; 朝; morning; l(mist, moon)

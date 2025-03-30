@@ -11633,8 +11633,10 @@ const elementsDict =
     ],
     "synonyms": [],
     "wkNames": [
-      "support"
-    ]
+      "support",
+      "branch"
+    ],
+    "comment": "now also called branch in WK, renamed from support I think"
   },
   "early": {
     "elements": [
