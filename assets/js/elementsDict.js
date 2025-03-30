@@ -15442,7 +15442,8 @@ const elementsDict =
     "synonyms": [],
     "wkNames": [
       "mouth"
-    ]
+    ],
+    "comment": "called \"pent in\" in RTK when it's enclosing other elements. otherwise mouth"
   },
   "spine": {
     "elements": [

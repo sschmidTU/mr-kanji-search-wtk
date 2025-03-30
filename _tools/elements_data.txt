@@ -748,7 +748,7 @@ chase; 追; follow; lb(road, maestro)
 large hill=large city; 阜; mound; t(maestro, ten)
 walk; 歩; walk; t(stop, few)
 repeatedly; 頻; frequent; l(walk, head)
-mouth; 口; mouth
+mouth; 口; mouth // called "pent in" in RTK when it's enclosing other elements. otherwise mouth
 spine; 呂; bath; t(mouth, drop, mouth)
 goods; 品; product; t(mouth, l(mouth, mouth))
 furniture=wooden goods; 操 right part; syrup; t(goods, tree)
