@@ -16,9 +16,13 @@ You can also enter kanji to see their elements:
 
 ---
 
+Add the number of times an element occurs to narrow down results:
+
 ![image](https://user-images.githubusercontent.com/33069673/108462460-ee08d700-727c-11eb-9a0e-9ffc8ba15dfd.png)
 
 ---
+
+Add more elements to narrow down results:
 
 ![image](https://user-images.githubusercontent.com/33069673/99188451-53b86500-275c-11eb-9e16-00d043123529.png)
 
