@@ -762,7 +762,7 @@ eye; 目; eye // eye or net in WK. net in WK is just horizontal eye in RTK
 eyeB=eye; 罒; net // also eye in RTK (ambiguouos), but net in WK. We handle this radical separately.
 ear; 耳; ear
 take; 取; take; l(ear, crotch)
-utmost; 最; most; t(sun, take)
+utmost=most; 最; most; t(sun, take)
 daring; 敢; daring; l(t(street, ear), taskmaster)
 exclamation; 耶; exclamation; l(ear, city walls)
 shelf; 且, 助 left part; top hat; c(eye, one) // this is not (always) perfectly RTK(eye)+RTK(one), but close enough. bottom stroke is slightly longer than for 'eye'
