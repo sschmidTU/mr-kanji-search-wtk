@@ -498,6 +498,7 @@ feathers; 羽; feather; clothes hanger2, drop2
 learn; 習; learn; t(feathers, white)
 sparkler; 摂 bottom right part; explosion; t(horns, animal legs)
 music; 楽; comfort; t(o(sparkler, white), tree)
+musicB=music; 樂; music; t(l(cocoon, white, cocoon), tree) // variant of 楽
 do=so; 為; sake; dropB, mouth, tail feathers
 fish; 魚; fish; t(bound up, rice field, oven-fire)
 ice; 凍 left part, 冬 bottom part; ice; drop2, two // ice is ambiguous in RTK, see 凍 and 冬.

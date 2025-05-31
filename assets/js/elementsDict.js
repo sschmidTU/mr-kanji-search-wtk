@@ -10377,6 +10377,36 @@ const elementsDict =
       "comfort"
     ]
   },
+  "musicB": {
+    "elements": [
+      "cocoon",
+      "white",
+      "cocoon",
+      "tree"
+    ],
+    "kanji": "樂",
+    "subElements": [
+      "cocoon",
+      "white",
+      "cocoon",
+      "tree",
+      "elbow",
+      "drop",
+      "sun",
+      "drops",
+      "day",
+      "dove",
+      "wood",
+      "music"
+    ],
+    "synonyms": [
+      "music"
+    ],
+    "wkNames": [
+      "music"
+    ],
+    "comment": "variant of 楽"
+  },
   "do": {
     "elements": [
       "dropB",
